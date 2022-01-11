@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>RMSEnumerations</PackageId>
+    <Version>1.0.11</Version>
+    <Authors>MohsinZaidi</Authors>
+    <Company>PrivateLTD</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
